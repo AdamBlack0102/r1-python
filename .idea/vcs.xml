@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/0-helloworld" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/04-branch&amp;loop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/05-function" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/06-module" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/07-module" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/08-StructuredProgramming" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/09-beforetest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1-calculation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2-branch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3-loop" vcs="Git" />
+  </component>
+</project>

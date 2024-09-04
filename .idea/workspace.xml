@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c3afe0ca-a4b7-4ea0-8f93-40ec1f39b5d2" name="更改" comment="test">
+      <change afterPath="$PROJECT_DIR$/grid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2dAVqgppdPY3C8qkA7kjUQfDY6d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python tests.Python tests for calculate_test.Test.executor": "Run",
+    "Python tests.Python tests for is_dangerous_test.Test.test1.executor": "Debug",
+    "Python tests.Python tests for logo_test.Test.executor": "Run",
+    "Python tests.Python tests for print_snake_test.TestPrintSnake.executor": "Run",
+    "Python tests.Python tests for test.Test.executor": "Run",
+    "Python tests.Python tests for test_flight_time.TestCalc.executor": "Run",
+    "Python tests.Python tests for test_get_day.Test.executor": "Run",
+    "Python tests.Python tests for test_get_num.Test (1).executor": "Run",
+    "Python tests.Python tests for test_get_num.Test.executor": "Run",
+    "Python tests.Python tests for test_get_year.Test.executor": "Run",
+    "Python tests.Python tests for test_get_year.Test.test1.executor": "Run",
+    "Python tests.Python tests for test_helloWorld.TestHelloWorld.executor": "Run",
+    "Python tests.Python tests for test_isAnagram.TestIsAnagram.executor": "Run",
+    "Python tests.Python tests for test_thief.TestThief.executor": "Run",
+    "Python tests.Python tests for test_word_count.Testwordcount (1).executor": "Run",
+    "Python tests.Python tests for test_word_count.Testwordcount.executor": "Run",
+    "Python tests.Python tests for to_do_list_test.PrivateTestProblem.executor": "Run",
+    "Python tests.Python tests for to_do_list_test.PrivateTestProblem.test_listF.executor": "Run",
+    "Python tests.Python tests for to_do_list_test.PrivateTestProblem.test_listG.executor": "Run",
+    "Python tests.Python tests for to_do_list_test.PrivateTestProblem.test_listH.executor": "Run",
+    "Python tests.Python tests for to_do_list_test.PrivateTestProblem.test_listI.executor": "Run",
+    "Python.dentist.executor": "Run",
+    "Python.grid.executor": "Run",
+    "Python.hello_world.executor": "Run",
+    "Python.to_do_list.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings",
+    "settings.editor.splitter.proportion": "0.28614458",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.grid">
+    <configuration name="grid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="r-1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/grid.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for to_do_list_test.PrivateTestProblem" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="r-1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08-StructuredProgramming/364-27-todolist/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;to_do_list_test.PrivateTestProblem&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for to_do_list_test.PrivateTestProblem.test_listF" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="r-1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08-StructuredProgramming/364-27-todolist/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;to_do_list_test.PrivateTestProblem.test_listF&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for to_do_list_test.PrivateTestProblem.test_listG" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="r-1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08-StructuredProgramming/364-27-todolist/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;to_do_list_test.PrivateTestProblem.test_listG&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for to_do_list_test.PrivateTestProblem.test_listI" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="r-1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08-StructuredProgramming/364-27-todolist/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;to_do_list_test.PrivateTestProblem.test_listI&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.grid" />
+        <item itemvalue="Python tests.Python tests for to_do_list_test.PrivateTestProblem" />
+        <item itemvalue="Python tests.Python tests for to_do_list_test.PrivateTestProblem.test_listF" />
+        <item itemvalue="Python tests.Python tests for to_do_list_test.PrivateTestProblem.test_listG" />
+        <item itemvalue="Python tests.Python tests for to_do_list_test.PrivateTestProblem.test_listI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="c3afe0ca-a4b7-4ea0-8f93-40ec1f39b5d2" name="更改" comment="" />
+      <created>1709451062608</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709451062608</updated>
+      <workItem from="1709451130067" duration="78000" />
+      <workItem from="1709451214291" duration="1362000" />
+      <workItem from="1709465218316" duration="514000" />
+      <workItem from="1709541910749" duration="599000" />
+      <workItem from="1709547982999" duration="28000" />
+      <workItem from="1709548578622" duration="2660000" />
+      <workItem from="1709969505784" duration="1613000" />
+      <workItem from="1710416406157" duration="4888000" />
+      <workItem from="1710667854113" duration="1686000" />
+      <workItem from="1710761221996" duration="1487000" />
+      <workItem from="1710916168453" duration="935000" />
+      <workItem from="1710936293438" duration="2578000" />
+      <workItem from="1711021662637" duration="3022000" />
+      <workItem from="1711088251001" duration="40000" />
+      <workItem from="1711092173014" duration="979000" />
+      <workItem from="1711176401809" duration="584000" />
+      <workItem from="1711197334941" duration="3685000" />
+      <workItem from="1711274515391" duration="595000" />
+      <workItem from="1711364840179" duration="6777000" />
+      <workItem from="1711443194952" duration="2943000" />
+      <workItem from="1711542109576" duration="4821000" />
+      <workItem from="1711628827917" duration="3775000" />
+      <workItem from="1711639084457" duration="1270000" />
+      <workItem from="1711640422891" duration="763000" />
+      <workItem from="1711861486413" duration="9300000" />
+      <workItem from="1711930215974" duration="97000" />
+      <workItem from="1711935906971" duration="246000" />
+      <workItem from="1711972041139" duration="266000" />
+      <workItem from="1712127859100" duration="1823000" />
+      <workItem from="1712368223491" duration="20103000" />
+      <workItem from="1712665849007" duration="124000" />
+      <workItem from="1712666234835" duration="18000" />
+      <workItem from="1712753984363" duration="2050000" />
+      <workItem from="1712838664535" duration="1723000" />
+      <workItem from="1713174458018" duration="49000" />
+      <workItem from="1713272196087" duration="792000" />
+      <workItem from="1713355138324" duration="5463000" />
+      <workItem from="1713441210339" duration="1398000" />
+      <workItem from="1713606053028" duration="2998000" />
+      <workItem from="1713614294481" duration="449000" />
+      <workItem from="1713617995142" duration="672000" />
+      <workItem from="1713674717334" duration="6152000" />
+      <workItem from="1713703270442" duration="2584000" />
+      <workItem from="1714222573152" duration="823000" />
+    </task>
+    <task id="LOCAL-00100" summary="test">
+      <option name="closed" value="true" />
+      <created>1712378940628</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1712378940628</updated>
+    </task>
+    <task id="LOCAL-00101" summary="test">
+      <option name="closed" value="true" />
+      <created>1712380621673</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1712380621673</updated>
+    </task>
+    <task id="LOCAL-00102" summary="test">
+      <option name="closed" value="true" />
+      <created>1712383304958</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1712383304958</updated>
+    </task>
+    <task id="LOCAL-00103" summary="test">
+      <option name="closed" value="true" />
+      <created>1712384284657</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1712384284658</updated>
+    </task>
+    <task id="LOCAL-00104" summary="test">
+      <option name="closed" value="true" />
+      <created>1712387768494</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1712387768494</updated>
+    </task>
+    <task id="LOCAL-00105" summary="test">
+      <option name="closed" value="true" />
+      <created>1712387998002</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1712387998002</updated>
+    </task>
+    <task id="LOCAL-00106" summary="test">
+      <option name="closed" value="true" />
+      <created>1712388290539</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1712388290539</updated>
+    </task>
+    <task id="LOCAL-00107" summary="test">
+      <option name="closed" value="true" />
+      <created>1712388817449</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1712388817449</updated>
+    </task>
+    <task id="LOCAL-00108" summary="test">
+      <option name="closed" value="true" />
+      <created>1712389026145</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1712389026145</updated>
+    </task>
+    <task id="LOCAL-00109" summary="test">
+      <option name="closed" value="true" />
+      <created>1712389693628</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1712389693628</updated>
+    </task>
+    <task id="LOCAL-00110" summary="test">
+      <option name="closed" value="true" />
+      <created>1712389825400</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1712389825400</updated>
+    </task>
+    <task id="LOCAL-00111" summary="test">
+      <option name="closed" value="true" />
+      <created>1712392922293</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1712392922293</updated>
+    </task>
+    <task id="LOCAL-00112" summary="test">
+      <option name="closed" value="true" />
+      <created>1712393069078</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1712393069078</updated>
+    </task>
+    <task id="LOCAL-00113" summary="test">
+      <option name="closed" value="true" />
+      <created>1712393704001</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1712393704001</updated>
+    </task>
+    <task id="LOCAL-00114" summary="test">
+      <option name="closed" value="true" />
+      <created>1712395346078</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1712395346079</updated>
+    </task>
+    <task id="LOCAL-00115" summary="test">
+      <option name="closed" value="true" />
+      <created>1712395355958</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1712395355958</updated>
+    </task>
+    <task id="LOCAL-00116" summary="test">
+      <option name="closed" value="true" />
+      <created>1712396300752</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1712396300752</updated>
+    </task>
+    <task id="LOCAL-00117" summary="test">
+      <option name="closed" value="true" />
+      <created>1712396682412</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1712396682412</updated>
+    </task>
+    <task id="LOCAL-00118" summary="test">
+      <option name="closed" value="true" />
+      <created>1712396886503</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1712396886503</updated>
+    </task>
+    <task id="LOCAL-00119" summary="test">
+      <option name="closed" value="true" />
+      <created>1712397193973</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1712397193973</updated>
+    </task>
+    <task id="LOCAL-00120" summary="test">
+      <option name="closed" value="true" />
+      <created>1712397318791</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1712397318791</updated>
+    </task>
+    <task id="LOCAL-00121" summary="test">
+      <option name="closed" value="true" />
+      <created>1712397536758</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1712397536758</updated>
+    </task>
+    <task id="LOCAL-00122" summary="test">
+      <option name="closed" value="true" />
+      <created>1712397614387</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1712397614388</updated>
+    </task>
+    <task id="LOCAL-00123" summary="test">
+      <option name="closed" value="true" />
+      <created>1712397900529</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1712397900529</updated>
+    </task>
+    <task id="LOCAL-00124" summary="test">
+      <option name="closed" value="true" />
+      <created>1712399368028</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1712399368028</updated>
+    </task>
+    <task id="LOCAL-00125" summary="test">
+      <option name="closed" value="true" />
+      <created>1712399385538</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1712399385538</updated>
+    </task>
+    <task id="LOCAL-00126" summary="test">
+      <option name="closed" value="true" />
+      <created>1712399726508</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1712399726508</updated>
+    </task>
+    <task id="LOCAL-00127" summary="test">
+      <option name="closed" value="true" />
+      <created>1712399734664</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1712399734664</updated>
+    </task>
+    <task id="LOCAL-00128" summary="test">
+      <option name="closed" value="true" />
+      <created>1713356567133</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1713356567133</updated>
+    </task>
+    <task id="LOCAL-00129" summary="test">
+      <option name="closed" value="true" />
+      <created>1713356863657</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1713356863657</updated>
+    </task>
+    <task id="LOCAL-00130" summary="test">
+      <option name="closed" value="true" />
+      <created>1713357514362</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1713357514362</updated>
+    </task>
+    <task id="LOCAL-00131" summary="test">
+      <option name="closed" value="true" />
+      <created>1713358165486</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1713358165486</updated>
+    </task>
+    <task id="LOCAL-00132" summary="test">
+      <option name="closed" value="true" />
+      <created>1713358673535</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1713358673535</updated>
+    </task>
+    <task id="LOCAL-00133" summary="test">
+      <option name="closed" value="true" />
+      <created>1713441438792</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1713441438792</updated>
+    </task>
+    <task id="LOCAL-00134" summary="test">
+      <option name="closed" value="true" />
+      <created>1713441572961</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1713441572961</updated>
+    </task>
+    <task id="LOCAL-00135" summary="test">
+      <option name="closed" value="true" />
+      <created>1713441637958</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1713441637958</updated>
+    </task>
+    <task id="LOCAL-00136" summary="test">
+      <option name="closed" value="true" />
+      <created>1713442072137</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1713442072137</updated>
+    </task>
+    <task id="LOCAL-00137" summary="test">
+      <option name="closed" value="true" />
+      <created>1713442245003</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1713442245003</updated>
+    </task>
+    <task id="LOCAL-00138" summary="test">
+      <option name="closed" value="true" />
+      <created>1713442418873</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1713442418873</updated>
+    </task>
+    <task id="LOCAL-00139" summary="test">
+      <option name="closed" value="true" />
+      <created>1713442527238</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1713442527238</updated>
+    </task>
+    <task id="LOCAL-00140" summary="test">
+      <option name="closed" value="true" />
+      <created>1713609174674</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1713609174674</updated>
+    </task>
+    <task id="LOCAL-00141" summary="test">
+      <option name="closed" value="true" />
+      <created>1713609854366</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1713609854366</updated>
+    </task>
+    <task id="LOCAL-00142" summary="test">
+      <option name="closed" value="true" />
+      <created>1713610925334</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1713610925334</updated>
+    </task>
+    <task id="LOCAL-00143" summary="test">
+      <option name="closed" value="true" />
+      <created>1713611065160</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1713611065160</updated>
+    </task>
+    <task id="LOCAL-00144" summary="test">
+      <option name="closed" value="true" />
+      <created>1713675673620</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1713675673621</updated>
+    </task>
+    <task id="LOCAL-00145" summary="test">
+      <option name="closed" value="true" />
+      <created>1713676282591</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1713676282591</updated>
+    </task>
+    <task id="LOCAL-00146" summary="test">
+      <option name="closed" value="true" />
+      <created>1713676542811</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1713676542811</updated>
+    </task>
+    <task id="LOCAL-00147" summary="test">
+      <option name="closed" value="true" />
+      <created>1713704828773</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1713704828774</updated>
+    </task>
+    <task id="LOCAL-00148" summary="test">
+      <option name="closed" value="true" />
+      <created>1713704894337</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1713704894337</updated>
+    </task>
+    <option name="localTasksCounter" value="149" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/06-module/375-8-football/src/football_dangerous.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/06-module/375-8-football/test/is_dangerous_test.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/07-module/274-14-isanagram/src/isAnagram_cal.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/08-StructuredProgramming/364-27-todolist/test/to_do_list_test.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/r_1$hello_world.coverage" NAME="hello_world Coverage Results" MODIFIED="1709542288450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/c6675fed268d41c4a8c61da512f4309d/26-helloworld/src" />
+    <SUITE FILE_PATH="coverage/r_1$.coverage" NAME=" Coverage Results" MODIFIED="1713704794772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08-StructuredProgramming/364-27-todolist/test" />
+    <SUITE FILE_PATH="coverage/r_1$to_do_list.coverage" NAME="to_do_list Coverage Results" MODIFIED="1713674789219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08-StructuredProgramming/364-27-todolist/src" />
+    <SUITE FILE_PATH="coverage/r_1$dentist.coverage" NAME="dentist Coverage Results" MODIFIED="1713618667560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/r_1$grid.coverage" NAME="grid Coverage Results" MODIFIED="1714222705860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

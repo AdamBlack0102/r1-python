@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/2-branch/30-triangle/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-branch/30-triangle/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/3-loop/32-factorial/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3-loop/32-factorial/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/3-loop/33-josephus/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3-loop/33-josephus/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/04-branch&amp;loop/34-prime/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04-branch&amp;loop/34-prime/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/04-branch&amp;loop/35-fibonacci/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04-branch&amp;loop/35-fibonacci/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/05-function/38-exampleproblem/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05-function/38-exampleproblem/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/05-function/39-validateinput/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05-function/39-validateinput/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/06-module/377-9-arrival-of-general/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/06-module/377-9-arrival-of-general/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/06-module/246-122-calculateretireschedule/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/06-module/246-122-calculateretireschedule/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/06-module/354-223-xenia_and_ringroad/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/06-module/354-223-xenia_and_ringroad/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/06-module/355-229-beautiful-year/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/06-module/355-229-beautiful-year/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/06-module/373-7-flight/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/06-module/373-7-flight/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/06-module/375-8-football/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/06-module/375-8-football/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/07-module/274-14-isanagram/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07-module/274-14-isanagram/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/07-module/316-166-word-count/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07-module/316-166-word-count/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/07-module/358-232-taxi/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07-module/358-232-taxi/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/07-module/367-292-printsnake/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07-module/367-292-printsnake/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/07-module/369-294-thief/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07-module/369-294-thief/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/07-module/363-26-grammarlesson/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07-module/363-26-grammarlesson/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/07-module/378-9-logo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07-module/378-9-logo/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/08-StructuredProgramming/364-27-todolist/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08-StructuredProgramming/364-27-todolist/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/09-beforetest/316-166-word-count/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/09-beforetest/316-166-word-count/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/09-beforetest/317-169-calculationforpizza/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/09-beforetest/317-169-calculationforpizza/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/09-beforetest/355-229-beautiful-year/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/09-beforetest/355-229-beautiful-year/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/09-beforetest/357-231-new_year_candles/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/09-beforetest/357-231-new_year_candles/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/09-beforetest/377-9-arrival-of-general/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/09-beforetest/377-9-arrival-of-general/test" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/.venv" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
